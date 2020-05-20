@@ -1,2 +1,2 @@
 # learning_java
-Java learning ntoes
+- Java learning notes
